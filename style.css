@@ -1,0 +1,20 @@
+.order-list{
+    list-style: lower-roman;
+}
+.unorder-list{
+    list-style: square;
+}
+.italic{
+    font-style: italic;
+    
+}
+span{
+    color: royalblue;
+   
+}
+b{
+    color: red;
+}
+body{
+    background-color: sandybrown;
+}
